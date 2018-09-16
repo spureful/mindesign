@@ -18,6 +18,6 @@ $ npm install
 Запустить сборку:
 $ gulp
 
-##  Проект можно посмтреть на githubPages по ссылке:
+##  Проект можно посмотреть на githubPages по ссылке:
 
 > https://spureful.github.io/mindesign/build
